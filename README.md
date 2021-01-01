@@ -1,11 +1,9 @@
 # distributed-image-resizer
 
-### Run
-
-**Leader**
+### Leader
 
 run without any args or ./leader [num workers] [port] [in directory]
 
-**Worker**
+### Worker
 
 run without any args or ./worker [num workers] [port] [server ip]
